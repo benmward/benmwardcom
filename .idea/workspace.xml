@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9586d148-38b0-489e-b01b-c3ea4f4febb9" name="Default" comment="" />
+    <list default="true" id="9586d148-38b0-489e-b01b-c3ea4f4febb9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cnfsr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/glyde.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jumpydeer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musicalmassacre.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabulater.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="newbmwweb.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +31,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41515476" vertical-offset="1201" max-vertical-offset="4485">
-              <caret line="106" column="61" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+            <state vertical-scroll-proportion="-16.708334" vertical-offset="409" max-vertical-offset="4485">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jumpydeer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jumpydeer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.958334" vertical-offset="568" max-vertical-offset="1740">
+              <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabulater.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tabulater.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.583334" vertical-offset="505" max-vertical-offset="1740">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnfsr.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnfsr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-45.625" vertical-offset="0" max-vertical-offset="1740">
+              <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="musicalmassacre.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/musicalmassacre.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.72785485" vertical-offset="128" max-vertical-offset="1935">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glyde.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/glyde.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1935">
+              <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -36,8 +94,8 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4909" max-vertical-offset="11955">
-              <caret line="348" column="7" selection-start-line="348" selection-start-column="4" selection-end-line="348" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11955">
+              <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,13 +114,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/musicalmassacre.html" />
+        <option value="$PROJECT_DIR$/glyde.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/tabulater.html" />
+        <option value="$PROJECT_DIR$/cnfsr.html" />
+        <option value="$PROJECT_DIR$/jumpydeer.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1969" />
-    <option name="y" value="-1056" />
+    <option name="x" value="49" />
+    <option name="y" value="24" />
     <option name="width" value="1871" />
     <option name="height" value="1056" />
   </component>
@@ -73,7 +136,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -162,6 +225,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
@@ -219,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1969" y="-1056" width="1871" height="1056" extended-state="6" />
+    <frame x="49" y="24" width="1871" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,16 +444,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4909" max-vertical-offset="11955">
-          <caret line="348" column="7" selection-start-line="348" selection-start-column="4" selection-end-line="348" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11955">
+          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glyde.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.75" vertical-offset="0" max-vertical-offset="1935">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41515476" vertical-offset="1201" max-vertical-offset="4485">
-          <caret line="106" column="61" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+        <state vertical-scroll-proportion="-16.708334" vertical-offset="409" max-vertical-offset="4485">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jumpydeer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.958334" vertical-offset="568" max-vertical-offset="1740">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabulater.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.583334" vertical-offset="505" max-vertical-offset="1740">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnfsr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-45.625" vertical-offset="0" max-vertical-offset="1740">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicalmassacre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72785485" vertical-offset="128" max-vertical-offset="1935">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
           <folding />
         </state>
       </provider>
