@@ -1,15 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<html>
 <head>
-  <meta charset="utf-8">
-  <title>Data Farmers</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <link rel="stylesheet" href="bootstrap.css" media="screen">
+	<title>Benjamin M. Ward</title>
+	<link rel="icon" href=bmw.ico />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ben's personal website.">
+	<meta name="author" content="Benjamin M Ward">
 
   <audio autoplay>
     <source src="sound/farmers.mp3" type="audio/mpeg">
     </audio>
+
+    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie/v9.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
     <!-- Piwik -->
     <script type="text/javascript">
@@ -17,31 +24,64 @@
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
       (function() {
-        var u="//benmward.com/analytics/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 1]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
+       var u="//benmward.com/analytics/";
+       _paq.push(['setTrackerUrl', u+'piwik.php']);
+       _paq.push(['setSiteId', 1]);
+       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+       g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+     })();
+   </script>
+   <noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+   <!-- End Piwik Code -->
 
-  </head>
-  <body>
-    <div class="container">
+ </head>
+ <body class="landing">
 
-      <div class="page-header" id="banner">
-        <div class="row">
-          <div class="col-lg-8 col-md-7 col-sm-6">
-            <center>
-              <h1>Data Farmers</h1>
-              <img src="img/datafarmers.gif" alt="Data Farmers">
-            </center>
-          </div>
-        </div>
-      </div>
+   <!-- Page Wrapper -->
+   <!-- Header -->
+   <header id="header" class="alt">
+    <nav id="nav">
+     <ul>
+      <li class="special">
+       <a href="#menu" class="menuToggle"><span>Projects</span></a>
+       <div id="menu">
+        <ul>
+         <li><a href="index.html">benmward.com</a></li>
+         <br>
+         <li><a href="musmass.html">Musical Massacre</a></li>
+         <li><a href="glyde.html">Glyde</a></li>
+         <li><a href="jumpydeer.html">Jumpy Deer <i class="fa fa-android"></i></a></li>
+         <li><a href="fox.html">Fox (Joke)</a></li>
+       </ul>
+     </div>
+   </li>
+ </ul>
+</nav>
+</header>
 
-    </div>
-  </body>
-  </html>
+
+<section id="banner">
+  <div class="inner">
+   <h2>Data Farmers</h2>
+   <div class="container">
+     <p><img src="img/datafarmers.gif" alt="Data Farmers"></p>
+     <p>GIF by the infamous Ben Ward | Photo Credit: <a href="http://dickbutt.rouly.net/michel">Michel Rouly</a></p>
+   </div>
+ </div>
+</section>
+<footer id="footer">
+  <span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
+</footer>
+
+
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
