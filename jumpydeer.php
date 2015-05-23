@@ -66,8 +66,13 @@
 
 		</div>
 	</section>
+	<!-- Footer -->
 	<footer id="footer">
-		<span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
+		<span class="copyright">
+			<script>
+				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+			</script>
+		</span>
 	</footer>
 
 	

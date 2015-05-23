@@ -59,25 +59,30 @@
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></"></script>
+			<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></script>
 
 			<!-- / PROJECT END -->
 
 		</div>
 	</section>
+	<!-- Footer -->
 	<footer id="footer">
-						<span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
-					</footer>
+		<span class="copyright">
+			<script>
+				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+			</script>
+		</span>
+	</footer>
 
-					
+	
 
-					<!-- Scripts -->
-					<script src="assets/js/jquery.min.js"></script>
-					<script src="assets/js/jquery.scrollex.min.js"></script>
-					<script src="assets/js/jquery.scrolly.min.js"></script>
-					<script src="assets/js/skel.min.js"></script>
-					<script src="assets/js/util.js"></script>
-					<script src="assets/js/main.js"></script>
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
 
-				</body>
-				</html>
+</body>
+</html>
