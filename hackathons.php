@@ -56,10 +56,10 @@
    <div class="container">
     <p>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
       <br>
-      <br>&bull; <a href="http://vthacks.com/"></a>Virgina Tech's VT Hacks (x2)</p>
-      <br>&bull; <a href="http://bitca.mp/"></a>University of Maryland’s Bitcamp (x2)</p>
-      <br>&bull; <a href="http://hacknc.com/"></a>University of North Carolina’s Hack NC (x2)</p>
-      <br>&bull; <a href="http://pennapps.com"></a>University of Pennsylvania’s Penn Apps</p>
+      <br>&bull; <a href="http://vthacks.com/"></a>Virgina Tech's VT Hacks (x2)
+      <br>&bull; <a href="http://bitca.mp/"></a>University of Maryland’s Bitcamp (x2)
+      <br>&bull; <a href="http://hacknc.com/"></a>University of North Carolina’s Hack NC (x2)
+      <br>&bull; <a href="http://pennapps.com"></a>University of Pennsylvania’s Penn Apps
       <p>
    </div>
  </div>
