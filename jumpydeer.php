@@ -28,7 +28,7 @@
 	</script>
 	<noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 	<!-- End Piwik Code -->
-	
+
 </head>
 <body class="landing">
 
@@ -40,14 +40,7 @@
 				<li class="special">
 					<a href="#menu" class="menuToggle"><span>Projects</span></a>
 					<div id="menu">
-						<ul>
-							<<li><a href="http://www.benmward.com">benmward.com</a></li>
-							<br>
-							<li><a href="musmass.html">Musical Massacre</a></li>
-							<li><a href="glyde.html">Glyde</a></li>
-							<li><a href="jumpydeer.html">Jumpy Deer <i class="fa fa-android"></i></a></li>
-							<li><a href="fox.html">Fox (Joke)</a></li>
-						</ul>
+						<?php include 'menu.php';?>
 					</div>
 				</li>
 			</ul>
@@ -57,16 +50,17 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Musical Massacre</h2>
+			<h2>Jumpy Deer</h2>
 
+			<p>This game is available on Android devices!<a href="https://play.google.com/store/apps/details?id=com.BenjaminWardandNathanLaPierre.JumpyDeer&hl=en"> CLICK HERE TO DOWNLOAD ON GOOGLE PLAY</a></p>
 			<!-- PROJECT START -->
 
 			<div class="container">
-				<canvas id="canvas" width="960" height="540">
+				<canvas id="canvas" width="640" height="360">
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="musmass/MusMasPort.js?XAJZB=975571870"></script>
+			<script type="text/javascript" src="jumpydeer/JumpyDeer.js?TDFAC=963938348"></script>
 
 			<!-- / PROJECT END -->
 

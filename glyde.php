@@ -40,14 +40,7 @@
 				<li class="special">
 					<a href="#menu" class="menuToggle"><span>Projects</span></a>
 					<div id="menu">
-						<ul>
-							<li><a href="http://www.benmward.com">benmward.com</a></li>
-							<br>
-							<li><a href="musmass.html">Musical Massacre</a></li>
-							<li><a href="glyde.html">Glyde</a></li>
-							<li><a href="jumpydeer.html">Jumpy Deer <i class="fa fa-android"></i></a></li>
-							<li><a href="fox.html">Fox (Joke)</a></li>
-						</ul>
+						<?php include 'menu.php';?>
 					</div>
 				</li>
 			</ul>
@@ -57,34 +50,34 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Nolan the Fennec Fox</h2>
+			<h2>Glyde</h2>
 
 			<!-- PROJECT START -->
 
 			<div class="container">
-				<canvas id="canvas" width="768" height="576">
+				<canvas id="canvas" width="1136" height="640">
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></"></script>
+			<script type="text/javascript" src="glyde/Glide.js?NFBBC=377782439"></script>
 
 			<!-- / PROJECT END -->
 
 		</div>
 	</section>
 	<footer id="footer">
-						<span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
-					</footer>
+		<span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
+	</footer>
 
-					
+	
 
-					<!-- Scripts -->
-					<script src="assets/js/jquery.min.js"></script>
-					<script src="assets/js/jquery.scrollex.min.js"></script>
-					<script src="assets/js/jquery.scrolly.min.js"></script>
-					<script src="assets/js/skel.min.js"></script>
-					<script src="assets/js/util.js"></script>
-					<script src="assets/js/main.js"></script>
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
 
-				</body>
-				</html>
+</body>
+</html>

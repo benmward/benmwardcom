@@ -28,7 +28,7 @@
 	</script>
 	<noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 	<!-- End Piwik Code -->
-
+	
 </head>
 <body class="landing">
 
@@ -40,14 +40,7 @@
 				<li class="special">
 					<a href="#menu" class="menuToggle"><span>Projects</span></a>
 					<div id="menu">
-						<ul>
-							<li><a href="http://www.benmward.com">benmward.com</a></li>
-							<br>
-							<li><a href="musmass.html">Musical Massacre</a></li>
-							<li><a href="glyde.html">Glyde</a></li>
-							<li><a href="jumpydeer.html">Jumpy Deer <i class="fa fa-android"></i></a></li>
-							<li><a href="fox.html">Fox (Joke)</a></li>
-						</ul>
+						<?php include 'menu.php';?>
 					</div>
 				</li>
 			</ul>
@@ -57,16 +50,16 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Glyde</h2>
+			<h2>Musical Massacre</h2>
 
 			<!-- PROJECT START -->
 
 			<div class="container">
-				<canvas id="canvas" width="1136" height="640">
+				<canvas id="canvas" width="960" height="540">
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="glyde/Glide.js?NFBBC=377782439"></script>
+			<script type="text/javascript" src="musmass/MusMasPort.js?XAJZB=975571870"></script>
 
 			<!-- / PROJECT END -->
 

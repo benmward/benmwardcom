@@ -50,25 +50,34 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Benjamin's Projects</h2>
-			<p>Welcome! Use the menu in the top<br />
-				right to view my projects, or use the<br />
-				button below to return to the homepage.</p>
-				<ul class="actions">
-					<li><a href="http://www.benmward.com" class="button special">Back to benmward.com</a></li>
-				</ul>
+			<h2>Nolan the Fennec Fox</h2>
+
+			<!-- PROJECT START -->
+
+			<div class="container">
+				<canvas id="canvas" width="768" height="576">
+					<p>Your browser doesn't support HTML5 canvas.</p>
+				</canvas>
 			</div>
-		</section>
+			<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></"></script>
 
-		
+			<!-- / PROJECT END -->
 
-		<!-- Scripts -->
-		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/jquery.scrollex.min.js"></script>
-		<script src="assets/js/jquery.scrolly.min.js"></script>
-		<script src="assets/js/skel.min.js"></script>
-		<script src="assets/js/util.js"></script>
-		<script src="assets/js/main.js"></script>
+		</div>
+	</section>
+	<footer id="footer">
+						<span class="copyright">&copy; Copyright 2015 <a href="http://www.benmward.com">Benjamin M. Ward</a> </a></span>
+					</footer>
 
-	</body>
-	</html>
+					
+
+					<!-- Scripts -->
+					<script src="assets/js/jquery.min.js"></script>
+					<script src="assets/js/jquery.scrollex.min.js"></script>
+					<script src="assets/js/jquery.scrolly.min.js"></script>
+					<script src="assets/js/skel.min.js"></script>
+					<script src="assets/js/util.js"></script>
+					<script src="assets/js/main.js"></script>
+
+				</body>
+				</html>
