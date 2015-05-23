@@ -9,6 +9,8 @@ echo '
 							<li><a href="cnfsr.php">CNFSR</a></li>
 							<li><a href="generosime.php">Generosi.me</a></li>
 							<li><a href="tabulater.php">Tabulater</a></li>
+							<br><br>
+							<li><a href="hackathons.php">Hackathons</a></li>
 						</ul>
 ';
 ?>
