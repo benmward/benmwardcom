@@ -56,11 +56,11 @@
    <div class="container">
     <p>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
       <br>The following list is a log of each event I have attended.
-      <ul>
-      <li><p><i class="fa fa-circle"></i><a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
-      <li><p><i class="fa fa-circle"></i><a href="http://bitca.mp/">University of Maryland’s Bitcamp (x2)</a></p></li>
-      <li><p><i class="fa fa-circle"></i><a href="http://hacknc.com/">University of North Carolina’s Hack NC (x2)</a></p></li>
-      <li><p><i class="fa fa-circle"></i><a href="http://pennapps.com">University of Pennsylvania’s Penn Apps</a></p></li>
+      <ul style="list-style: none;">
+      <li><p>&bull; <a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
+      <li><p>&bull; <a href="http://bitca.mp/">University of Maryland’s Bitcamp (x2)</a></p></li>
+      <li><p>&bull; <a href="http://hacknc.com/">University of North Carolina’s Hack NC (x2)</a></p></li>
+      <li><p>&bull; <a href="http://pennapps.com">University of Pennsylvania’s Penn Apps</a></p></li>
       </ul><p>
    </div>
  </div>
