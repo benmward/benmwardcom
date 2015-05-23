@@ -9,7 +9,6 @@ echo '
 							<li><a href="cnfsr.php">CNFSR</a></li>
 							<li><a href="generosime.php">Generosi.me</a></li>
 							<li><a href="tabulater.php">Tabulater</a></li>
-							<li><a href="fox.php">Fox (Joke)</a></li>
 						</ul>
 ';
 ?>
