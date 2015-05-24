@@ -65,10 +65,12 @@
 
 				<!-- / PROJECT END -->
 
+				<span class="copyright">
+					<script>
+						window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+					</script>
+				</span>
 			</div>
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
 		</section>
 
 
