@@ -1,7 +1,7 @@
 <?php
 echo '
 						<ul>
-							<li><a href="http://www.benmward.com">benmward.com</a></li>
+							<li><a href="http://www.benmward.com">Back to benmward.com</a></li>
 							<hr>
 							<li><a href="glyde.php">Glyde</a></li>
 							<li><a href="jumpydeer.php">Jumpy Deer <i class="fa fa-android"></i></a></li>
