@@ -54,7 +54,7 @@
 
 			<p>A very hard haunted house puzzle-platformer I made in 2009.<br>
 				Arrow keys to move. Use Z or the up arrow to jump.<br>
-				<a href='/downloads/House of the Haunted.exe'>Click here to download the game for Windows</a></p>
+				<a href='/downloads/House of the Haunted.exe'>Click here to download the game for Windows (52mb)</a></p>
 				<!-- PROJECT START -->
 
 				<div class="container">
@@ -62,7 +62,7 @@
 						<p>Your browser doesn't support HTML5 canvas.</p>
 					</canvas>
 				</div>
-				<script type="text/javascript" src="haunted/House of the Haunted.js?PPFZB=1833475287"></script>
+				<script type="text/javascript" src="haunted/House of the Haunted.js?YTAAC=336798762"></script>
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
