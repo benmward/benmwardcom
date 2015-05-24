@@ -57,10 +57,6 @@
 				<ul class="actions">
 					<li><a href="http://www.benmward.com" class="button special">Back to benmward.com</a></li>
 				</ul>
-				<!-- Copyright Signature -->
-				<script>
-					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
-				</script>
 			</div>
 		</section>
 

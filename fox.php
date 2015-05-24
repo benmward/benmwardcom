@@ -52,38 +52,33 @@
 		<div class="inner">
 			<h2>Nolan the Fennec Fox</h2>
 			<p>This is a secret game that is hidden on my website.<br>
-			I made it as a joke for my younger brother.</p>
-			<!-- PROJECT START -->
+				I made it as a joke for my younger brother.</p>
+				<!-- PROJECT START -->
 
-			<div class="container">
-				<canvas id="canvas" width="768" height="576">
-					<p>Your browser doesn't support HTML5 canvas.</p>
-				</canvas>
+				<div class="container">
+					<canvas id="canvas" width="768" height="576">
+						<p>Your browser doesn't support HTML5 canvas.</p>
+					</canvas>
+				</div>
+				<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></script>
+
+				<!-- / PROJECT END -->
+				<!-- Copyright Signature -->
+				<script>
+					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+				</script>
 			</div>
-			<script type="text/javascript" src="fox/Nolanfox.js?NHWYB=989445939"></script>
+		</section>
 
-			<!-- / PROJECT END -->
 
-		</div>
-	</section>
-	<!-- Footer -->
-	<footer id="footer">
-		<span class="copyright">
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
-		</span>
-	</footer>
 
-	
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
-</body>
-</html>
+	</body>
+	</html>

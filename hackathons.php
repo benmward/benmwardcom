@@ -63,10 +63,6 @@
         <li><p>&bull; <a href="http://pennapps.com">University of Pennsylvania’s Penn Apps</a></p></li>
       </ul><p>
     </div>
-    <!-- Copyright Signature -->
-    <script>
-      document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
-    </script>
   </div>
 </section>
 

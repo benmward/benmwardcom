@@ -64,6 +64,7 @@
 				<script type="text/javascript" src="cataclysm/Cataclysm.js?KJPAC=1519069052"></script>
 
 				<!-- / PROJECT END -->
+				<!-- Copyright Signature -->
 				<script>
 					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
 				</script>
