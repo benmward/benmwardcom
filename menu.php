@@ -4,6 +4,7 @@ echo '
 							<li><a href="http://www.benmward.com">Back to benmward.com</a></li>
 							<hr>
 							<li><a href="jumpydeer.php">Jumpy Deer <i class="fa fa-android"></i></a></li>
+							<li><a href="haunted.php">House of the Haunted</a></li>
 							<li><a href="musmass.php">Musical Massacre</a></li>
 							<li><a href="glyde.php">Glyde</a></li>
 							<li><a href="cnfsr.php">CNFSR</a></li>
