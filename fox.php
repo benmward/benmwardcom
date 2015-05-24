@@ -51,7 +51,8 @@
 	<section id="banner">
 		<div class="inner">
 			<h2>Nolan the Fennec Fox</h2>
-			<p>This is a secret game that is hidden on my website. I made it as a joke for my younger brother.</p>
+			<p>This is a secret game that is hidden on my website.<br>
+			I made it as a joke for my younger brother.</p>
 			<!-- PROJECT START -->
 
 			<div class="container">

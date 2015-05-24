@@ -51,7 +51,8 @@
 	<section id="banner">
 		<div class="inner">
 			<h2>Musical Massacre</h2>
-			<p>This is an old game I made back in highschool. Events in the game are synchronized with the music.</p>
+			<p>This is an old game I made back in highschool.<br>
+			Events in the game are synchronized with the music.</p>
 			<!-- PROJECT START -->
 
 			<div class="container">

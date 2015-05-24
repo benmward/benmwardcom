@@ -52,7 +52,8 @@
 		<div class="inner">
 			<h2>Cataclysm</h2>
 
-			<p>Incomplete project of an arcade game idea I had. Move with arrow keys. Shoot with Space bar. Upgrade your ship with Z, X, C, V.</p>
+			<p>Incomplete project of an arcade game idea I had. Move with arrow keys.<br>
+			Shoot with Space bar. Upgrade your ship with Z, X, C, V.</p>
 			<!-- PROJECT START -->
 
 			<div class="container">
@@ -60,7 +61,7 @@
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="cataclysm/Cataclysm.js?YIMYB=610824704"></script>
+			<script type="text/javascript" src="cataclysm/Cataclysm.js?KJPAC=1519069052"></script>
 
 			<!-- / PROJECT END -->
 
