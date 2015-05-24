@@ -52,8 +52,8 @@
 		<div class="inner">
 			<h2>Terrorborn</h2>
 
-			<p>Incomplete project of an boss fight concept I had. Yes, the demon's<br>
-				voice is mine. Move with WASD. Aim and shoot with the mouse.</p>
+			<p>Incomplete project of a boss fight concept I had. Yes, the demon's voice is mine.<br>
+				Move with W,A,S,D. Aim and shoot with the mouse.</p>
 				<!-- PROJECT START -->
 
 				<div class="container">
