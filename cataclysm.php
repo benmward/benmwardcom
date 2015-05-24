@@ -57,7 +57,7 @@
 				<!-- PROJECT START -->
 
 				<div class="container">
-					<canvas id="canvas" width="640" height="480">>
+					<canvas id="canvas" width="640" height="480">
 						<p>Your browser doesn't support HTML5 canvas.</p>
 					</canvas>
 				</div>
