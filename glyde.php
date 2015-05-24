@@ -52,38 +52,33 @@
 		<div class="inner">
 			<h2>Glyde</h2>
 			<p>I am currently working on completing this game.<br>
-			This is an early alpha release, and very buggy.</p>
-			<!-- PROJECT START -->
+				This is an early alpha release, and very buggy.</p>
+				<!-- PROJECT START -->
 
-			<div class="container">
-				<canvas id="canvas" width="1136" height="640">
-					<p>Your browser doesn't support HTML5 canvas.</p>
-				</canvas>
+				<div class="container">
+					<canvas id="canvas" width="1136" height="640">
+						<p>Your browser doesn't support HTML5 canvas.</p>
+					</canvas>
+				</div>
+				<script type="text/javascript" src="glyde/Glide.js?NFBBC=377782439"></script>
+
+				<!-- / PROJECT END -->
+				<!-- Copyright Signature -->
+				<script>
+					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+				</script>
 			</div>
-			<script type="text/javascript" src="glyde/Glide.js?NFBBC=377782439"></script>
-
-			<!-- / PROJECT END -->
-
-		</div>
-	</section>
-	<!-- Footer -->
-	<footer id="footer">
-		<span class="copyright">
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
-		</span>
-	</footer>
+		</section>
 
 
 
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 
-</body>
-</html>
+	</body>
+	</html>

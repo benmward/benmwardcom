@@ -57,23 +57,18 @@
     <p>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
       <br>The following list is a log of each event I have attended.
       <ul style="list-style: none;">
-      <li><p>&bull; <a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
-      <li><p>&bull; <a href="http://bitca.mp/">University of Maryland’s Bitcamp (x2)</a></p></li>
-      <li><p>&bull; <a href="http://hacknc.com/">University of North Carolina’s Hack NC (x2)</a></p></li>
-      <li><p>&bull; <a href="http://pennapps.com">University of Pennsylvania’s Penn Apps</a></p></li>
+        <li><p>&bull; <a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
+        <li><p>&bull; <a href="http://bitca.mp/">University of Maryland’s Bitcamp (x2)</a></p></li>
+        <li><p>&bull; <a href="http://hacknc.com/">University of North Carolina’s Hack NC (x2)</a></p></li>
+        <li><p>&bull; <a href="http://pennapps.com">University of Pennsylvania’s Penn Apps</a></p></li>
       </ul><p>
-   </div>
- </div>
-</section>
-
-<!-- Footer -->
-<footer id="footer">
-  <span class="copyright">
+    </div>
+    <!-- Copyright Signature -->
     <script>
-      window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+      document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
     </script>
-  </span>
-</footer>
+  </div>
+</section>
 
 
 

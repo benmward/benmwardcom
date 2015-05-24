@@ -52,38 +52,33 @@
 		<div class="inner">
 			<h2>Musical Massacre</h2>
 			<p>This is an old game I made back in highschool.<br>
-			Events in the game are synchronized with the music.</p>
-			<!-- PROJECT START -->
+				Events in the game are synchronized with the music.</p>
+				<!-- PROJECT START -->
 
-			<div class="container">
-				<canvas id="canvas" width="960" height="540">
-					<p>Your browser doesn't support HTML5 canvas.</p>
-				</canvas>
+				<div class="container">
+					<canvas id="canvas" width="960" height="540">
+						<p>Your browser doesn't support HTML5 canvas.</p>
+					</canvas>
+				</div>
+				<script type="text/javascript" src="musmass/MusMasPort.js?XAJZB=975571870"></script>
+
+				<!-- / PROJECT END -->
+				<!-- Copyright Signature -->
+				<script>
+					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+				</script>
 			</div>
-			<script type="text/javascript" src="musmass/MusMasPort.js?XAJZB=975571870"></script>
+		</section>
 
-			<!-- / PROJECT END -->
 
-		</div>
-	</section>
-	<!-- Footer -->
-	<footer id="footer">
-		<span class="copyright">
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
-		</span>
-	</footer>
 
-	
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
-</body>
-</html>
+	</body>
+	</html>

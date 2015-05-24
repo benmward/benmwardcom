@@ -60,17 +60,13 @@
        <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/124/629/datas/gallery.jpg" alt="CNFSR">
      </a></p>
    </div>
- </div>
+   <!-- / PROJECT END -->
+   <!-- Copyright Signature -->
+   <script>
+    document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+  </script>
+</div>
 </section>
-
-<!-- Footer -->
-<footer id="footer">
-  <span class="copyright">
-    <script>
-      window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-    </script>
-  </span>
-</footer>
 
 
 

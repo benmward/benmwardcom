@@ -63,19 +63,14 @@
 			<script type="text/javascript" src="jumpydeer/JumpyDeer.js?TDFAC=963938348"></script>
 
 			<!-- / PROJECT END -->
-
+			<!-- Copyright Signature -->
+			<script>
+				document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+			</script>
 		</div>
 	</section>
-	<!-- Footer -->
-	<footer id="footer">
-		<span class="copyright">
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
-		</span>
-	</footer>
 
-	
+
 
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
