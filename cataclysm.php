@@ -53,38 +53,35 @@
 			<h2>Cataclysm</h2>
 
 			<p>Incomplete project of an arcade game idea I had. Move with arrow keys.<br>
-			Shoot with Space bar. Upgrade your ship with Z, X, C, V.</p>
-			<!-- PROJECT START -->
+				Shoot with Space bar. Upgrade your ship with Z, X, C, V.</p>
+				<!-- PROJECT START -->
 
-			<div class="container">
-				<canvas id="canvas" width="640" height="480">>
-					<p>Your browser doesn't support HTML5 canvas.</p>
-				</canvas>
+				<div class="container">
+					<canvas id="canvas" width="640" height="480">>
+						<p>Your browser doesn't support HTML5 canvas.</p>
+					</canvas>
+				</div>
+				<script type="text/javascript" src="cataclysm/Cataclysm.js?KJPAC=1519069052"></script>
+
+				<!-- / PROJECT END -->
+
 			</div>
-			<script type="text/javascript" src="cataclysm/Cataclysm.js?KJPAC=1519069052"></script>
+			<span class="copyright">
+				<script>
+					window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+				</script>
+			</span>
+		</section>
 
-			<!-- / PROJECT END -->
+		
 
-		</div>
-	</section>
-	<!-- Footer -->
-	<footer id="footer">
-		<span class="copyright">
-			<script>
-				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-			</script>
-		</span>
-	</footer>
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 
-	
-
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
-</body>
-</html>
+	</body>
+	</html>
