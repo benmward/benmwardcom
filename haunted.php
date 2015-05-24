@@ -52,9 +52,8 @@
 		<div class="inner">
 			<h2>House of the Haunted</h2>
 
-			<p>A very hard haunted house puzzle-platformer I made in 2009.<br>
-				Arrow keys to move. Use Z or the up arrow to jump.<br>
-				<a href='/downloads/House of the Haunted.exe'>Click here to download the game for Windows (30mb)</a></p>
+			<p>A very hard haunted house puzzle-platformer I made in 2009. Arrow keys to move.<br>
+				Use Z or the up arrow to jump. <a href='/downloads/House of the Haunted.exe'>Click here to download for Windows (30mb)</a></p>
 				<!-- PROJECT START -->
 
 				<div class="container">
