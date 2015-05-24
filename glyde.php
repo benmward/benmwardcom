@@ -51,7 +51,7 @@
 	<section id="banner">
 		<div class="inner">
 			<h2>Glyde</h2>
-
+			<p>I am currently working on completing this game. This is an early alpha release, and very buggy.</p>
 			<!-- PROJECT START -->
 
 			<div class="container">

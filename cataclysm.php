@@ -28,7 +28,7 @@
 	</script>
 	<noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 	<!-- End Piwik Code -->
-	
+
 </head>
 <body class="landing">
 
@@ -50,16 +50,17 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Musical Massacre</h2>
-			<p>This is an old game I made back in highschool. Events in the game are synchronized with the music.</p>
+			<h2>Cataclysm</h2>
+
+			<p>Incomplete project of an arcade game idea I had. Move with arrow keys. Shoot with Space bar. Upgrade your ship with Z, X, C, V.</p>
 			<!-- PROJECT START -->
 
 			<div class="container">
-				<canvas id="canvas" width="960" height="540">
+				<canvas id="canvas" width="640" height="480">>
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="musmass/MusMasPort.js?XAJZB=975571870"></script>
+			<script type="text/javascript" src="cataclysm/Cataclysm.js?YIMYB=610824704"></script>
 
 			<!-- / PROJECT END -->
 
