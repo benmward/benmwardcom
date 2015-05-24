@@ -53,8 +53,9 @@
 			<h2>Benjamin's Projects</h2>
 			<p>Welcome! Use the menu in the top<br />
 				right to view my projects, or use the<br />
-				button below to return to the homepage.</p>
+				bottom button to return to the homepage.</p>
 				<ul class="actions">
+					<li><a href="#menu" class="button special">View Projects</a></li><br>
 					<li><a href="http://www.benmward.com" class="button special">Back to benmward.com</a></li>
 				</ul>
 			</div>
