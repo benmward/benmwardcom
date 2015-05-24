@@ -65,7 +65,7 @@
 
 				<!-- / PROJECT END -->
 				<script>
-					window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
 				</script>
 			</div>
 		</section>
