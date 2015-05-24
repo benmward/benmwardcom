@@ -60,10 +60,6 @@
      <p><img src="img/datafarmers.gif" alt="Data Farmers"></p>
      <p>GIF by the infamous Ben Ward | Photo Credit: <a href="http://dickbutt.rouly.net/michel">Michel Rouly</a></p>
    </div>
-   <!-- Copyright Signature -->
-   <script>
-    document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
-  </script>
 </div>
 </section>
 
