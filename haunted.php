@@ -62,7 +62,7 @@
 						<p>Your browser doesn't support HTML5 canvas.</p>
 					</canvas>
 				</div>
-				<script type="text/javascript" src="haunted/House of the Haunted.js?ZMIYB=798742243"></script>
+				<script type="text/javascript" src="haunted/House of the Haunted.js?XUJAC=1448423602"></script>
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
