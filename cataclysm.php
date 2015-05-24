@@ -66,14 +66,12 @@
 				<!-- / PROJECT END -->
 
 			</div>
-			<span class="copyright">
-				<script>
-					window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
-				</script>
-			</span>
+			<script>
+				window.footer.innerHTML = "<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>";
+			</script>
 		</section>
 
-		
+
 
 		<!-- Scripts -->
 		<script src="assets/js/jquery.min.js"></script>
