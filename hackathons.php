@@ -54,7 +54,7 @@
   <div class="inner">
    <h2>Hackathons</h2>
    <div class="container">
-    <p>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
+    <p><br>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
       <br>The following list is a log of each event I have attended.
       <ul style="list-style: none;">
         <li><p>&bull; <a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
