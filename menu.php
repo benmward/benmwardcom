@@ -9,6 +9,7 @@ echo '
 							<li><a href="glyde.php">Glyde</a></li>
 							<li><a href="cnfsr.php">CNFSR</a></li>
 							<li><a href="generosime.php">Generosi.me</a></li>
+							<li><a href="souls.php">Land of Lost Souls</a></li>
 							<li><a href="terrorborn.php">Terrorborn</a></li>
 							<li><a href="cataclysm.php">Cataclysm</a></li>
 							<li><a href="tabulater.php">Tabulater</a></li>
