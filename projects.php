@@ -55,7 +55,7 @@
 			<p>Welcome! Use the menu in the top right corner <br />
 				to view my projects. Any feedback is appreciated <br />
 				and should be directed to <a href="mailto:ben@benmward.com">ben@benmward.com</a></p>
-				<br><br>
+				<br>
 				<ul class="actions">
 					<li><a href="#menu" class="button special">View Projects</a></li>
 				</ul>
