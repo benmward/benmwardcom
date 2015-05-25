@@ -52,7 +52,7 @@
 		<div class="inner">
 			<h2>Land of Lost Souls</h2>
 
-			<p>A small RPG platformer I made in 2010. You level each stat by<br>
+			<p>A seamless open-world RPG platformer I made in 2010. You level each stat by<br>
 				performing the action in the game. The more you run, the faster you run.</p>
 				<!-- PROJECT START -->
 
