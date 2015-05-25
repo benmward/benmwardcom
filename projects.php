@@ -51,9 +51,11 @@
 	<section id="banner">
 		<div class="inner">
 			<h2>Benjamin's Projects</h2>
+			<br><br>
 			<p>Welcome! Use the menu in the top right corner <br />
 				to view my projects. Any feedback is appreciated <br />
 				and should be directed to <a href="mailto:ben@benmward.com">ben@benmward.com</a></p>
+				<br><br>
 				<ul class="actions">
 					<li><a href="#menu" class="button special">View Projects</a></li>
 				</ul>
