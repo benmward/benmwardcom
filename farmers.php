@@ -57,6 +57,7 @@
   <div class="inner">
    <h2>Data Farmers</h2>
    <div class="container">
+   <br>
      <p><img src="img/datafarmers.gif" alt="Data Farmers"></p>
      <p>GIF by the infamous Ben Ward | Photo Credit: <a href="http://dickbutt.rouly.net/michel">Michel Rouly</a></p>
    </div>
