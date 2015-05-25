@@ -1544,7 +1544,7 @@
 	hr {
 		border: 0;
 		border-bottom: solid 2px #fff;
-		margin: 3em 0;
+		margin: 0.5em 0;
 	}
 
 		hr.major {
@@ -3205,7 +3205,7 @@
 					@media screen and (max-width: 736px) {
 
 						#menu ul > li > a {
-							line-height: 1.5em;
+							line-height: 3em;
 						}
 
 					}
