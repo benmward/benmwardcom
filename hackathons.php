@@ -55,7 +55,7 @@
    <h2>Hackathons</h2>
    <div class="container">
     <p><br>I actively attend many collegiate hackathons hosted by <a href="https://mlh.io">Major League Hacking</a>.
-      <br>The following list is a log of each event I have attended.
+      <br>The following list is a log of each event I have attended.<br>
       <ul style="list-style: none;">
         <li><p>&bull; <a href="http://vthacks.com/">Virgina Tech's VT Hacks (x2)</a></p></li>
         <li><p>&bull; <a href="http://bitca.mp/">University of Maryland’s Bitcamp (x2)</a></p></li>

@@ -60,7 +60,7 @@
 					<p>Your browser doesn't support HTML5 canvas.</p>
 				</canvas>
 			</div>
-			<script type="text/javascript" src="jumpydeer/JumpyDeer.js?TDFAC=963938348"></script>
+			<script type="text/javascript" src="jumpydeer/JumpyDeer.js?VKZZB=957703081"></script>
 
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
