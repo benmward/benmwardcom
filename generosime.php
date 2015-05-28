@@ -55,7 +55,7 @@
    <h2>generosi.me</h2>
    <div class="container">
     <p>A hackathon submission from Penn Apps Fall 2015.
-      <br>View the project on<a href="http://challengepost.com/software/generosi-me-vla9t">Challenge Post</a> or the <a href="https://github.com/benmward/pennapps2015">Repository on GitHub</a>.</p>
+      <br>View the project on <a href="http://challengepost.com/software/generosi-me-vla9t">Challenge Post</a> or the <a href="https://github.com/benmward/pennapps2015">Repository on GitHub</a>.</p>
       <p><a href="http://challengepost.com/software/generosi-me-vla9t">
        <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/200/957/datas/gallery.jpg" alt="generosi.me">
      </a></p>
