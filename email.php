@@ -1,0 +1,219 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Benjamin M. Ward</title>
+	<link rel="icon" href=bmw.ico />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Ben's personal website.">
+	<meta name="author" content="Benjamin M Ward">
+	<!-- Piwik -->
+	<script type="text/javascript">
+		var _paq = _paq || [];
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+			var u="//benmward.com/analytics/";
+			_paq.push(['setTrackerUrl', u+'piwik.php']);
+			_paq.push(['setSiteId', 1]);
+			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+			g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+		})();
+	</script>
+	<noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+	<!-- End Piwik Code -->
+
+	<script type="text/javascript">
+		function mail(){
+			window.open('mailto:ben@benmward.com');
+			window.location.replace("http://www.benmward.com");
+		}
+	</script>
+
+	<style type="text/css">
+		html,
+		body {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: #030403;
+			overflow: hidden;
+		}
+		.wrap {
+			position: Absolute;
+			width: 100px;
+			height: 100px;
+			left: 50%;
+			top: 50%;
+			margin-top: -50px;
+			margin-left: -50px;
+			transform: scale(2);
+		}
+		.wrap .overlay {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			z-index: 100;
+			box-shadow: 0 0 25px 38.46153846153846px #030403 inset;
+		}
+		.wrap .cogWheel {
+			position: Absolute;
+			top: 50%;
+			margin-top: -25px;
+			width: 50px;
+			height: 50px;
+		}
+		.wrap .cogWheel.one {
+			left: -6.25px;
+			-webkit-animation: rotLeft 1s infinite linear;
+		}
+		.wrap .cogWheel.one .one:before {
+			border: none;
+		}
+		.wrap .cogWheel.two {
+			right: -6.25px;
+			margin-top: -23.80952380952381px;
+			transform: rotate(196deg);
+			-webkit-animation: rotRight 1s infinite linear;
+		}
+		.wrap .cogWheel.two .one:before {
+			border: none;
+		}
+		.wrap .cogWheel .cog {
+			position: absolute;
+			width: 100%;
+			left: 0;
+			top: 50%;
+		}
+		.wrap .cogWheel .cog:after {
+			display: block;
+			position: absolute;
+			content: ' ';
+			border: 2px solid #fff;
+			border-left: none;
+			height: 8.620689655172415px;
+			width: 5px;
+			right: -8.620689655172415px;
+			top: -4.310344827586207px;
+		}
+		.wrap .cogWheel .cog:before {
+			display: block;
+			position: absolute;
+			content: ' ';
+			border-left: 2px solid #fff;
+			height: 10px;
+			width: 4.166666666666667px;
+			right: -5.555555555555555px;
+			top: -12.5px;
+			transform: rotate(-20deg);
+		}
+		.wrap .cogWheel .cog.one {
+			transform: rotate(-80deg);
+		}
+		.wrap .cogWheel .cog.two {
+			transform: rotate(-40deg);
+		}
+		.wrap .cogWheel .cog.three {
+			transform: rotate(0deg);
+		}
+		.wrap .cogWheel .cog.four {
+			transform: rotate(40deg);
+		}
+		.wrap .cogWheel .cog.five {
+			transform: rotate(80deg);
+		}
+		@-moz-keyframes rotLeft {
+			from {
+				transform: rotate(-30deg);
+			}
+			to {
+				transform: rotate(10deg);
+			}
+		}
+		@-webkit-keyframes rotLeft {
+			from {
+				transform: rotate(-30deg);
+			}
+			to {
+				transform: rotate(10deg);
+			}
+		}
+		@-o-keyframes rotLeft {
+			from {
+				transform: rotate(-30deg);
+			}
+			to {
+				transform: rotate(10deg);
+			}
+		}
+		@keyframes rotLeft {
+			from {
+				transform: rotate(-30deg);
+			}
+			to {
+				transform: rotate(10deg);
+			}
+		}
+		@-moz-keyframes rotRight {
+			from {
+				transform: rotate(-174deg);
+			}
+			to {
+				transform: rotate(-214deg);
+			}
+		}
+		@-webkit-keyframes rotRight {
+			from {
+				transform: rotate(-174deg);
+			}
+			to {
+				transform: rotate(-214deg);
+			}
+		}
+		@-o-keyframes rotRight {
+			from {
+				transform: rotate(-174deg);
+			}
+			to {
+				transform: rotate(-214deg);
+			}
+		}
+		@keyframes rotRight {
+			from {
+				transform: rotate(-174deg);
+			}
+			to {
+				transform: rotate(-214deg);
+			}
+		}
+
+	</style>
+
+</head>
+<body>
+	<script type="text/javascript">
+		mail();
+	</script>
+	<div class="wrap">
+		<div class="overlay"></div>
+
+		<div class="cogWheel one">
+			<div class="cog one"></div>
+			<div class="cog two"></div>
+			<div class="cog three"></div>
+			<div class="cog four"></div>
+			<div class="cog five"></div>
+			<div class="center"></div>
+		</div>
+
+		<div class="cogWheel two">
+			<div class="cog one"></div>
+			<div class="cog two"></div>
+			<div class="cog three"></div>
+			<div class="cog four"></div>
+			<div class="cog five"></div>
+			<div class="center"></div>
+		</div>
+	</div>
+</body>
+</html>
