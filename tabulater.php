@@ -55,7 +55,7 @@
    <h2>TabULater</h2>
    <div class="container">
     <p>A hackathon submission from Bitcamp Spring 2014.
-      <br><a href="http://challengepost.com/software/tabulater">CLICK HERE TO VIEW THE PROJECT ON WWW.CHALLENGEPOST.COM</a></p>
+      <br>View the project on<a href="http://challengepost.com/software/tabulater">Challenge Post</a> or the <a href="https://github.com/benmward/TulExtension">Repository on GitHub</a>.</p>
       <p><a href="http://challengepost.com/software/tabulater">
        <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/120/002/datas/gallery.jpg" alt="TabULater">
      </a></p>
