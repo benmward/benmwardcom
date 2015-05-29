@@ -25,7 +25,7 @@
 
 	<script type="text/javascript">
 		function mail(){
-			window.location.href('mailto:ben@benmward.com');
+			window.location('mailto:ben@benmward.com');
 			window.location.replace("http://www.benmward.com");
 		}
 	</script>
