@@ -3216,7 +3216,7 @@
 
 		#menu .close {
 			background-image: url("images/close.svg");
-			background-position: 2.85em 1em;
+			background-position: 0.85em 1em;
 			background-repeat: no-repeat;
 			border: 0;
 			cursor: pointer;
