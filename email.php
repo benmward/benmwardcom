@@ -4,8 +4,8 @@
 <head>
 	<title>Benjamin M. Ward</title>
 	<link rel="icon" href=bmw.ico />
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Ben's personal website.">
+	<meta http-equiv="refresh" content="0; url=mailto:ben@benmward.com">
+	<meta name="description" content="Benjamin M. Ward's personal website.">
 	<meta name="author" content="Benjamin M Ward">
 	<!-- Piwik -->
 	<script type="text/javascript">
@@ -24,11 +24,10 @@
 	<!-- End Piwik Code -->
 
 	<script type="text/javascript">
-		function mail(){
-			window.location.href = 'mailto:ben@benmward.com';
-		}
 		function redir(){
-			window.location.replace("http://www.benmward.com");
+			window.setTimeout(function() {
+				window.location.href = "http://www.benmward.com";
+			}, 5000);
 		}
 	</script>
 
@@ -194,7 +193,6 @@
 </head>
 <body>
 	<script type="text/javascript">
-		mail();
 		redir();
 	</script>
 	<div class="wrap">

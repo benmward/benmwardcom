@@ -4,7 +4,7 @@
 	<title>Benjamin M. Ward</title>
 	<link rel="icon" href=bmw.ico />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Ben's personal website.">
+	<meta name="description" content="Benjamin M. Ward's personal website.">
 	<meta name="author" content="Benjamin M Ward">
 	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 	<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
