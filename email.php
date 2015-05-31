@@ -7,6 +7,7 @@
 	<meta http-equiv="refresh" content="0; url=mailto:ben@benmward.com">
 	<meta name="description" content="Benjamin M. Ward's personal website.">
 	<meta name="author" content="Benjamin M Ward">
+
 	<!-- Piwik -->
 	<script type="text/javascript">
 		var _paq = _paq || [];
@@ -22,14 +23,6 @@
 	</script>
 	<noscript><p><img src="//benmward.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 	<!-- End Piwik Code -->
-
-	<script type="text/javascript">
-		function redir(){
-			window.setTimeout(function() {
-				window.location.href = "http://www.benmward.com";
-			}, 5000);
-		}
-	</script>
 
 	<style type="text/css">
 		html,
@@ -192,9 +185,6 @@
 
 </head>
 <body>
-	<script type="text/javascript">
-		redir();
-	</script>
 	<div class="wrap">
 		<div class="overlay"></div>
 
@@ -216,5 +206,13 @@
 			<div class="center"></div>
 		</div>
 	</div>
+
+	<script type="text/javascript">
+		function redir(){
+			window.setTimeout(function() {
+				window.location.href = "http://www.benmward.com";
+			}, 3500);
+		}
+	</script>
 </body>
 </html>
