@@ -61,7 +61,7 @@
 						<p>Your browser doesn't support HTML5 canvas.</p>
 					</canvas>
 				</div>
-				<script type="text/javascript" src="souls/The Land of Lost Souls.js?ANBBC=925170018"></script>
+				<script type="text/javascript" src="souls/The Land of Lost Souls.js?VQCYB=1971533475"></script>
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
