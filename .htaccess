@@ -5,7 +5,7 @@ ErrorDocument 404 /error.php
 ErrorDocument 403 /403.php
 ErrorDocument 500 /500.php
 RewriteEngine on
-RewriteRule ^400.php$ /index.html [R=301]
-RewriteRule ^401.php$ /index.html [R=301]
-RewriteRule ^403.php$ /index.html [R=301]
-RewriteRule ^500.php$ /index.html [R=301]
+RewriteRule ^400.php$ www.benmward.com [R=301]
+RewriteRule ^401.php$ www.benmward.com [R=301]
+RewriteRule ^403.php$ www.benmward.com [R=301]
+RewriteRule ^500.php$ www.benmward.com [R=301]
