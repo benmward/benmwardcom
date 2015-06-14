@@ -8,7 +8,7 @@
 	<meta name="author" content="Benjamin M Ward">
 
   <audio autoplay>
-    <source src="sound/farmers.mp3" type="audio/mpeg">
+    <source src="snd/farmers.mp3" type="audio/mpeg">
     </audio>
 
     <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
