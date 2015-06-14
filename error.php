@@ -51,7 +51,7 @@
 	<section id="banner">
 		<div class="inner">
 			<h2>Sorry, an error has occured</h2>
-			<p><br>¯\_(ツ)_/¯<br>
+			<p><br>¯\_(ツ)_/¯<br><br>
 			Despite his best efforts, Ben could not find what you were looking for.</p>
 				<br>
 				<ul class="actions">
