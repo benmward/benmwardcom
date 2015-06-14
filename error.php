@@ -52,7 +52,7 @@
 		<div class="inner">
 			<h2>Sorry, an error has occured</h2>
 			<p><br>¯\_(ツ)_/¯<br><br>
-			Despite his best efforts, Ben could not find what you were looking for.</p>
+			Despite his best efforts, Ben could <br>not find what you were looking for.</p>
 				<br>
 				<ul class="actions">
 					<li><a href="http://www.benmward.com" class="button special">Take me home!</a></li>
