@@ -52,7 +52,7 @@
 		<div class="inner">
 			<h2>Sorry, an error has occured.</h2>
 			<p><br>¯\_(ツ)_/¯<br>
-			The page you requested does not exist.</p>
+			Ben could not find what you requested.</p>
 				<br>
 				<ul class="actions">
 					<li><a href="http://www.benmward.com" class="button special">Take me home!</a></li>
