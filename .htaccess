@@ -1,6 +1,11 @@
 Options -Indexes
-ErrorDocument 400 /error.php
-ErrorDocument 401 /error.php
-ErrorDocument 403 /error.php
+ErrorDocument 400 /400.php
+ErrorDocument 401 /401.php
 ErrorDocument 404 /error.php
-ErrorDocument 500 /error.php
+ErrorDocument 403 /403.php
+ErrorDocument 500 /500.php
+RewriteEngine on
+RewriteRule ^400.php$ /index.html [R=301]
+RewriteRule ^401.php$ /index.html [R=301]
+RewriteRule ^403.php$ /index.html [R=301]
+RewriteRule ^500.php$ /index.html [R=301]
