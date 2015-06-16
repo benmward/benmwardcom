@@ -16,7 +16,7 @@ echo '
 							<li><a href="tabulater.php">Tabulater</a></li>
 							<hr>
 							<li><a href="hackathons.php">Hackathons</a></li>
-							<li><a href="/childhood">Childhood Directory Index</a></li>
+							<li><a href="/childhood">Childhood Index</a></li>
 						</ul>
 ';
 ?>
