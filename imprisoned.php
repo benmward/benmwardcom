@@ -61,7 +61,7 @@
 						<p>Your browser doesn't support HTML5 canvas.</p>
 					</canvas>
 				</div>
-				<script type="text/javascript" src="imprisoned/Imprisoned.js?HJPZB=1394338246"></script>
+				<script type="text/javascript" src="imprisoned/Imprisoned.js?JRUXB=1869347350"></script>
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
