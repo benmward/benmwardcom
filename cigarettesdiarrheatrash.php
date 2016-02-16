@@ -52,7 +52,7 @@
 		<div class="inner">
 			<!-- PROJECT START -->
 			<div class="container">
-				<iframe src="https://docs.google.com/document/d/1snfKzDqosjOptdPOBoaRxHlyVMIGiOpw3gI_YPU2uBI/pub?embedded=true" width="333px" height="666px" frameborder="1"></iframe>
+				<iframe src="https://docs.google.com/document/d/1snfKzDqosjOptdPOBoaRxHlyVMIGiOpw3gI_YPU2uBI/pub?embedded=true" width="666px" height="666px" frameborder="1"></iframe>
 			</div>
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
