@@ -53,8 +53,8 @@
 			<h2>Senior Capstone Project</h2>
 				<!-- PROJECT START -->
 				<div class="container">
-					<canvas id="canvas" width="800px" height="700px">
-						<p>Your browser doesn't support HTML5 canvas.</p>
+					<canvas id="canvas" width="1000px" height="700px">
+						<p>Error - Update your browser.</p>
 					</canvas>
 				</div>
 				<script type="text/javascript" src="glyde/Glide.js?NFBBC=377782439"></script>
