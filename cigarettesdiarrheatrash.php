@@ -50,10 +50,9 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Ben's Spotify Playlist</h2>
 			<!-- PROJECT START -->
 			<div class="container">
-				<iframe src="https://docs.google.com/document/d/1snfKzDqosjOptdPOBoaRxHlyVMIGiOpw3gI_YPU2uBI/pub?embedded=true"></iframe>
+				<iframe src="https://docs.google.com/document/d/1snfKzDqosjOptdPOBoaRxHlyVMIGiOpw3gI_YPU2uBI/pub?embedded=true" width="380" height="550" frameborder="1"></iframe>
 			</div>
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
