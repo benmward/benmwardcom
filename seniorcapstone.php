@@ -50,7 +50,7 @@
 
 	<section id="banner">
 		<div class="inner">
-			<h2>Senior Capstone Project</h2>
+			<h2>Moneta Memory Suite</h2>
 				<!-- PROJECT START -->
 				<div class="container">
 					<canvas id="canvas" width="1024px" height="544px">
@@ -62,7 +62,7 @@
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
 				<script>
-					document.write("<p>Copyright © " + new Date().getFullYear() +
+					document.write("<p>A Senior Capstone Project by" +
 					 " <a href='http://www.benmward.com'>Benjamin M. Ward</a>  |  Created under: <a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0 License</a></p>");
 				</script>
 			</div>
