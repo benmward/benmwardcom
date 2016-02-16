@@ -53,7 +53,7 @@
 			<h2>Senior Capstone Project</h2>
 				<!-- PROJECT START -->
 				<div class="container">
-					<canvas id="canvas" width="1000px" height="70%">
+					<canvas id="canvas" width="1000px" height="90%">
 						<p>Error - Update your browser.</p>
 					</canvas>
 				</div>
