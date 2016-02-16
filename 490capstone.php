@@ -62,7 +62,8 @@
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
 				<script>
-					document.write("<p>Copyright © " + new Date().getFullYear() + " <a href='http://www.benmward.com'>Benjamin M. Ward</a></p>");
+					document.write("<p>Copyright © " + new Date().getFullYear() +
+					 " <a href='http://www.benmward.com'>Benjamin M. Ward</a>  |  Created under: <a href='https://www.apache.org/licenses/LICENSE-2.0'>Apache 2.0 License</a></p>");
 				</script>
 			</div>
 		</section>
