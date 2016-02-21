@@ -53,7 +53,7 @@
 			<h2>Ben's Public Directory</h2>
 			<!-- PROJECT START -->
 			<div class="container">
-				<iframe src="https://drive.google.com/embeddedfolderview?id=0B0i_bZSaxy7AUXVpVlVKMk1PRlU#list" width="777px" height="666px" frameborder="0"></iframe>
+				<iframe src="https://drive.google.com/embeddedfolderview?id=0B0i_bZSaxy7AUXVpVlVKMk1PRlU#grid" width="777px" height="666px" frameborder="0"></iframe>
 			</div>
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
