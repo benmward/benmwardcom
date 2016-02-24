@@ -53,7 +53,7 @@
 			<h2>Ben's Spotify Playlist</h2>
 			<!-- PROJECT START -->
 			<div class="container">
-				<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1247205841%3Aplaylist%3A22qXg6XxyimfAclt8RXPH4" width="300" height="380" frameborder="1" allowtransparency="true"></iframe>
+				<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1247205841%3Aplaylist%3A6JBu4WZAwLj4iwjJlKGy2J" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 			</div>
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
