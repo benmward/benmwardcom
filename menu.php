@@ -15,7 +15,7 @@ echo '
 							<li><a href="cataclysm.php">Cataclysm</a></li>
 							<li><a href="tabulater.php">Tabulater</a></li>
 							<hr>
-							<li><a href="seniorcapstone.php">Senior Capstone Project</a></li>
+							<li><a href="seniorcapstone.php">Capstone Project</a></li>
 							<li><a href="hackathons.php">Hackathons Attended</a></li>
 							<li><a href="/childhood">Childhood Works Index</a></li>
 						</ul>
