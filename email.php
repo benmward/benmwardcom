@@ -9,7 +9,7 @@
 	<meta name="author" content="Benjamin M Ward">
 
 	<!-- Piwik -->
-	<?php include '/php/tracker.php';?>
+	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tracker.php');?>
 	<!-- End Piwik Code -->
 
 	<script type="text/javascript">

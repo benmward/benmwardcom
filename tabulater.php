@@ -17,7 +17,7 @@
   <!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
   <!-- Piwik -->
-  <?php include '/php/tracker.php';?>
+  <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tracker.php');?>
   <!-- End Piwik Code -->
 
 </head>
@@ -31,7 +31,7 @@
     <li class="special">
      <a href="#menu" class="menuToggle"><span>Projects</span></a>
      <div id="menu">
-      <?php include '/php/menu.php';?>
+      <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/menu.php');?>
     </div>
   </li>
 </ul>
