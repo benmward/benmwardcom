@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+	<base href="https://www.benmward.com/" />
 	<title>Benjamin M. Ward</title>
 	<link rel="icon" href=bmw.ico />
 	<meta http-equiv="refresh" content="0; url=mailto:ben@benmward.com">
