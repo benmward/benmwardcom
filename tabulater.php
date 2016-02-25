@@ -16,8 +16,8 @@
   <!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
   <!-- Piwik -->
- <?php include 'tracker.php';?>
- <!-- End Piwik Code -->
+  <?php include '/php/tracker.php';?>
+  <!-- End Piwik Code -->
 
 </head>
 <body class="landing">
@@ -30,7 +30,7 @@
     <li class="special">
      <a href="#menu" class="menuToggle"><span>Projects</span></a>
      <div id="menu">
-      <?php include 'menu.php';?>
+      <?php include '/php/menu.php';?>
     </div>
   </li>
 </ul>
@@ -45,7 +45,7 @@
     <p>A hackathon submission from Bitcamp Spring 2014.
       <br>View the project on <a href="http://challengepost.com/software/tabulater">Challenge Post</a> or the <a href="https://github.com/benmward/TulExtension">Repository on GitHub</a>.</p>
       <p><a href="http://challengepost.com/software/tabulater">
-       <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/120/002/datas/gallery.jpg" alt="TabULater">
+       <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/120/002/datas/gallery.jpg" width="570" height="432" alt="TabULater">
      </a></p>
    </div>
    <!-- Copyright Signature -->

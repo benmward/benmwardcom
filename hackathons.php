@@ -16,7 +16,7 @@
   <!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
   <!-- Piwik -->
-  <?php include 'tracker.php';?>
+  <?php include '/php/tracker.php';?>
  <!-- End Piwik Code -->
 
 </head>
@@ -30,7 +30,7 @@
     <li class="special">
      <a href="#menu" class="menuToggle"><span>Projects</span></a>
      <div id="menu">
-      <?php include 'menu.php';?>
+      <?php include '/php/menu.php';?>
     </div>
   </li>
 </ul>

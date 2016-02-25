@@ -8,7 +8,7 @@
 	<meta name="author" content="Benjamin M Ward">
 
 	<!-- Piwik -->
-	<?php include 'tracker.php';?>
+	<?php include '/php/tracker.php';?>
 	<!-- End Piwik Code -->
 
 	<script type="text/javascript">
