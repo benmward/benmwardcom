@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<base href="https://www.benmward.com/" />
 	<title>Benjamin M. Ward</title>
 	<link rel="icon" href=bmw.ico />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
