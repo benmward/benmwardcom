@@ -2,10 +2,12 @@
 <html>
 <head>
 	<title>Benjamin M. Ward</title>
-	<link rel="icon" href=bmw.ico />
 	<meta http-equiv="refresh" content="0; url=mailto:ben@benmward.com">
 	<meta name="description" content="Benjamin M. Ward's personal website.">
 	<meta name="author" content="Benjamin M Ward">
+
+	<!-- Favicon Insanity -->
+	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/favicons.php');?>
 
 	<!-- Piwik -->
 	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tracker.php');?>
