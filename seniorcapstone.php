@@ -48,7 +48,11 @@
 						<p>Error - Update your browser.</p>
 					</canvas>
 				</div>
+<<<<<<< HEAD
 				<script type="text/javascript" src="moneta/490CapstoneProject.js?EJFYB=1250142330"></script>
+=======
+				<script type="text/javascript" src="moneta/490CapstoneProject.js?ZYBYB=1361181990"></script>
+>>>>>>> f4d4ceac7bff9c3129482722a5d0ef1dc737e919
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
