@@ -9,12 +9,7 @@
 	<!-- Favicon Insanity -->
 	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/favicons.php');?>
 	
-	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-	<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="assets/css/main.css" />
-	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
-	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie/v9.css" /><![endif]-->
-	<!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
 	<!-- Piwik -->
 	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tracker.php');?>
@@ -48,7 +43,7 @@
 						<p>Error - Update your browser.</p>
 					</canvas>
 				</div>
-				<script type="text/javascript" src="moneta/490CapstoneProject.js?BRAYB=624626668"></script>
+				<script type="text/javascript" src="moneta/490CapstoneProject.js?QFTZB=1631215349"></script>
 
 				<!-- / PROJECT END -->
 				<!-- Copyright Signature -->
