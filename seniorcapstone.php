@@ -6,8 +6,15 @@
 	<meta name="description" content="Benjamin M. Ward's personal website.">
 	<meta name="author" content="Benjamin M Ward">
 
-	<!-- Favicon Insanity -->
-	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/favicons.php');?>
+  	<!-- Favicon Insanity -->
+  	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/favicons.php');?>
+
+  	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+  	<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
+  	<link rel="stylesheet" href="assets/css/main.css" />
+  	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
+  	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie/v9.css" /><![endif]-->
+  	<!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
 
 	<!-- Piwik -->
 	<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tracker.php');?>
