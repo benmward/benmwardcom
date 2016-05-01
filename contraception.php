@@ -43,7 +43,7 @@
 		<div class="inner">
 			<h2>CONTRA(ception)</h2>
 				<!-- PROJECT START -->
-
+				<p>A game to teach contraception to youth for my human sexuality class.</p>
 				<div class="container">
 					<canvas id="canvas" width="852" height="480">
 						<p>Load failed.</p>

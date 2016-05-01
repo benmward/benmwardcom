@@ -43,6 +43,7 @@
 		<div class="inner">
 			<h2>Moneta Memory Suite</h2>
 				<!-- PROJECT START -->
+				<p>My Senior Capstone Project for CS 490.</p>
 				<div class="container">
 					<canvas id="canvas" width="1024px" height="544px">
 						<p>Error - Update your browser.</p>
