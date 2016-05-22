@@ -39,7 +39,7 @@
 	</header>
 
 
-	<section id="banner">
+	<section id="banner"> 
 		<div class="inner">
 			<h2>Moneta Memory Suite</h2>
 				<!-- PROJECT START -->
