@@ -44,7 +44,7 @@
 			<h2>CS 306 Summer Work</h2>
 			<!-- PROJECT START -->
 			<div class="container">
-				<iframe src="https://drive.google.com/folderview?id=0B0i_bZSaxy7AbUdnNmxzc0s0eUU#grid" width="900px" height="504px" frameborder="0"></iframe>
+				<iframe src="https://drive.google.com/embeddedfolderview?id=0B0i_bZSaxy7AbUdnNmxzc0s0eUU#grid" width="900px" height="504px" frameborder="0"></iframe>
 			</div>
 			<!-- / PROJECT END -->
 			<!-- Copyright Signature -->
